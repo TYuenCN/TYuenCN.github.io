@@ -1,1 +1,1 @@
-AVKit Framework Reference
+<a href="http://www.baidu.com">AVKit Framework Reference</a>
