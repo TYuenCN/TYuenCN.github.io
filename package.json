@@ -1,0 +1,23 @@
+{
+  "name": "tyuencn.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TYuenCN/TYuenCN.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TYuenCN/TYuenCN.github.io/issues"
+  },
+  "homepage": "https://github.com/TYuenCN/TYuenCN.github.io#readme",
+  "dependencies": {
+    "webpack": "^5.73.0"
+  }
+}
